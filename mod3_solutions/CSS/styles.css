@@ -1,0 +1,17 @@
+#header-nav{
+    background-color:#61122f ;
+}
+.navbar-header button.navbar-toggle{
+    clear: both;
+}
+.navbar-header div h1{
+    margin: 0;
+    padding: 0;
+}
+#home-tiles{
+    width: fit-content;
+    height: fit-content;
+    border: 1px solid;
+    background-color: antiquewhite;
+    margin: 5px;
+}
